@@ -1,0 +1,13 @@
+{
+  "events": [
+    {
+      "id": "event1",
+      "title": "Celebration of UNEB Results 2026",
+      "images": [
+        "assets/event1/img1.jpg",
+        "assets/event1/img2.jpg",
+        "assets/event1/img3.jpg"
+      ]
+    }
+  ]
+}
